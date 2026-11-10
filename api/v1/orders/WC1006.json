@@ -1,0 +1,19 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "WC1006",
+  "item": "니트 가디건 (블랙)",
+  "brand": "데모브랜드F",
+  "price": 79000,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 10,
+  "ship": "무료배송(50,000원 이상 구매)",
+  "returnFee": 3000,
+  "exchangeFee": 6000,
+  "carrier": "롯데택배",
+  "tracking": "6891-2034-5520"
+ }
+}

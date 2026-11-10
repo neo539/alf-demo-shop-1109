@@ -1,0 +1,21 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "WC1001",
+  "externalOrderNo": "W2611010001",
+  "item": "울 블렌드 롱코트 (M)",
+  "brand": "데모브랜드A",
+  "price": 289000,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 3,
+  "ship": "무료배송",
+  "returnFee": 6000,
+  "exchangeFee": 6000,
+  "feeNote": "편도 3,000원+처음 배송비 3,000원",
+  "carrier": "CJ대한통운",
+  "tracking": "6891-2034-5517"
+ }
+}

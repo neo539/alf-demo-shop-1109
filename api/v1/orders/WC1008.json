@@ -1,0 +1,19 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "WC1008",
+  "item": "스트레이트 데님 (26)",
+  "brand": "데모브랜드D",
+  "price": 89000,
+  "pay": "카카오페이",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 9,
+  "claim": "반품접수(회수 대기)",
+  "claimStart": 6,
+  "reason": "단순 변심",
+  "returnFee": 6000,
+  "carrier": "CJ대한통운"
+ }
+}

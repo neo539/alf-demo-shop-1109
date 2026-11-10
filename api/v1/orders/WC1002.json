@@ -1,0 +1,15 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "WC1002",
+  "item": "캐시미어 니트 (아이보리)",
+  "brand": "데모브랜드B",
+  "price": 129000,
+  "pay": "간편결제(W.페이)",
+  "type": "일반",
+  "status": "상품준비중",
+  "paid": 1,
+  "shipEta": 2
+ }
+}

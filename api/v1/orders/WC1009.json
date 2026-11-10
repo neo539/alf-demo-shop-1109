@@ -1,0 +1,21 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "WC1009",
+  "item": "실크 블라우스 (S)",
+  "brand": "데모브랜드H",
+  "price": 119000,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 1,
+  "carrier": "한진택배",
+  "tracking": "5123-9876-0001",
+  "notReceived": true,
+  "ship": "무료배송",
+  "returnFee": 6000,
+  "exchangeFee": 6000,
+  "feeNote": "편도 3,000원+처음 배송비 3,000원"
+ }
+}

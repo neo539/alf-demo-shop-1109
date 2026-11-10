@@ -1,0 +1,63 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "memberGrade": "W VIP",
+  "orders": [
+   {
+    "orderNo": "WC1001",
+    "item": "울 블렌드 롱코트 (M)",
+    "status": "배송완료",
+    "claim": null
+   },
+   {
+    "orderNo": "WC1002",
+    "item": "캐시미어 니트 (아이보리)",
+    "status": "상품준비중",
+    "claim": null
+   },
+   {
+    "orderNo": "WC1003",
+    "item": "레더 숄더백",
+    "status": "결제완료",
+    "claim": null
+   },
+   {
+    "orderNo": "WC1004",
+    "item": "와이드 데님 (27)",
+    "status": "배송완료",
+    "claim": "반품처리중"
+   },
+   {
+    "orderNo": "WC1005",
+    "item": "러닝화 (255)",
+    "status": "배송중",
+    "claim": null
+   },
+   {
+    "orderNo": "WC1006",
+    "item": "니트 가디건 (블랙)",
+    "status": "배송완료",
+    "claim": null
+   },
+   {
+    "orderNo": "WC1007",
+    "item": "핸드메이드 울 코트 (프리오더)",
+    "status": "결제완료",
+    "claim": null
+   },
+   {
+    "orderNo": "WC1008",
+    "item": "스트레이트 데님 (26)",
+    "status": "배송완료",
+    "claim": "반품접수(회수 대기)"
+   },
+   {
+    "orderNo": "WC1009",
+    "item": "실크 블라우스 (S)",
+    "status": "배송완료",
+    "claim": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "WC1004",
+  "item": "와이드 데님 (27)",
+  "brand": "데모브랜드D",
+  "price": 89000,
+  "pay": "카카오페이",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 12,
+  "claim": "반품처리중",
+  "claimStart": 8,
+  "reason": "단순 변심",
+  "returnFee": 6000,
+  "carrier": "CJ대한통운"
+ }
+}

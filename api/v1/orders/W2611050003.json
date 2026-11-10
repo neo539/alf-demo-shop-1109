@@ -1,0 +1,17 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "WC1003",
+  "externalOrderNo": "W2611050003",
+  "item": "레더 숄더백",
+  "brand": "데모브랜드C",
+  "price": 198000,
+  "pay": "가상계좌(입금 완료)",
+  "type": "일반",
+  "status": "결제완료",
+  "paid": 0,
+  "refundAccount": "미등록",
+  "shipEta": 3
+ }
+}
