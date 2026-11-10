@@ -7,7 +7,7 @@
 | 파일 | 쓰임 | 사진 페이지 | 작가 | 라이선스 |
 |---|---|---|---|---|
 | p1.jpg | 울 블렌드 롱코트 | https://www.pexels.com/photo/elegant-woman-in-beige-overcoat-with-handbag-31529647/ | Berna (https://www.pexels.com/@mibernaa) | Pexels License |
-| p2.jpg | 니트 가디건 (3:4 크롭) | https://www.pexels.com/photo/young-woman-wearing-a-black-cardigan-standing-in-an-illuminated-corridor-20565737/ | Felix Young (https://www.pexels.com/@felix-young-449360607) | Pexels License |
+| p2.jpg | 니트 가디건 (3:4 크롭) | https://www.pexels.com/photo/a-woman-wearing-a-cardigan-with-a-pin-10174127/ | Feyza Altun (https://www.pexels.com/@feyza-altun-120534393) | Pexels License |
 | p3.jpg | 러닝화 | https://www.pexels.com/photo/close-up-of-blue-shoes-17930823/ | Arturo A (https://www.pexels.com/@arturoaez225) | Pexels License |
 | p4.jpg | 캐시미어 니트 | https://www.pexels.com/photo/elegant-cream-wool-sweater-close-up-design-38545837/ | Veronika Kuracheva (https://www.pexels.com/@veronika-kuracheva-2158899242) | Pexels License |
 | p5.jpg | 레더 숄더백 | https://www.pexels.com/photo/bag-with-belt-and-handle-22434766/ | Muneeb Malhotra (https://www.pexels.com/@dhanno) | Pexels License |
