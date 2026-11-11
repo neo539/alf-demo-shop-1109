@@ -1,0 +1,4 @@
+.staticrypt.json
+*.password
+.deploy_password
+__*
